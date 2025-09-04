@@ -1,0 +1,14 @@
+{
+  "name": "CrossLiquidity Hub",
+  "description": "CrossLiquidity Hub is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://552efeaa-4973-4a67-b3ec-ff885ce46c91.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "CrossLiquidity Hub",
+      "description": "CrossLiquidity Hub is a Base Mini App built with Zara.",
+      "url": "https://552efeaa-4973-4a67-b3ec-ff885ce46c91.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
